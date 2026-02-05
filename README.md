@@ -27,3 +27,6 @@ This bundle introduces a collection of Star Wars creatures and droids functionin
 3. If your companion is injured, spawn a veterinarian npc and use him
 4. If you want some abilities for your companion, une the "abilities" section in the seller interface
 5. You're done !
+
+# SPECIAL THANKS
+Crash -> Gave me a solid base to work on
