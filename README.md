@@ -1,19 +1,25 @@
 # P.A.-s-Essential-Companion-bundle
-This bundle introduces a collection of Star Wars creatures and droids functioning as pets/companion in Garry's Mod. Current available companions are : 
+This bundle introduces a collection of Star Wars creatures and droids functioning as pets/companion in Garry's Mod. Each companion has abilities you can use onto maps and npcs, such as : 
+- Slice : Opens a locked door / locks an unlocked door
+- Attack : Attacks an NPC (need to press E in his direction after activating the ability)
+- Bacta : Heals other player around his owner
+- Suicide : Blows himself up (no kidding)
+
+Current available companions are : 
 - R2 droid :
-  - It can open/close locked door for you
-  - It can self-destruct (by blowing himself up)
+  - Slice
+  - Suicide
 - R3 droid :
-  - It can open/close locked door for you
-  - It can self-destruct (by blowing himself up)
+  - Slice
+  - Suicide
 - R4 droid :
-  - It can open/close locked door for you
-  - It can self-destruct (by blowing himself up)
+  - Slice
+  - Suicide
 - R5 droid :
-  - It can open/close locked door for you
-  - It can self-destruct (by blowing himself up)
+  - Slice
+  - Suicide
 - Massiff :
-  - It can attack a pointed entity (need to press "E" in the direction of the entity)
+  - Attack
 
 # INSTALLATION
 1. Download the .zip file
